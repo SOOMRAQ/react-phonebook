@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-phonebook/static/css/main.e3c34992.css",
+    "main.js": "/react-phonebook/static/js/main.d005fa4e.js",
+    "static/media/main-background.jpg": "/react-phonebook/static/media/main-background.73ed7a46c524f095006b.jpg",
+    "static/media/ipad-background.jpg": "/react-phonebook/static/media/ipad-background.59a0f5053da144939165.jpg",
+    "static/media/cta.png": "/react-phonebook/static/media/cta.113c0cc562fb5bfe2703.png",
+    "index.html": "/react-phonebook/index.html",
+    "main.e3c34992.css.map": "/react-phonebook/static/css/main.e3c34992.css.map",
+    "main.d005fa4e.js.map": "/react-phonebook/static/js/main.d005fa4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c34992.css",
+    "static/js/main.d005fa4e.js"
+  ]
+}
